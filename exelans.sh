@@ -1,20 +1,15 @@
 clear
 mkdir Tools
 clear 
-```bash
-echo -e '\033[31m
+echo -e '\033[31;40;1m
 ███████╗██╗  ██╗███████╗██╗      █████╗ ███╗   ██╗███████╗    
 ██╔════╝╚██╗██╔╝██╔════╝██║     ██╔══██╗████╗  ██║██╔════╝    
 █████╗   ╚███╔╝ █████╗  ██║     ███████║██╔██╗ ██║███████╗    
 ██╔══╝   ██╔██╗ ██╔══╝  ██║     ██╔══██║██║╚██╗██║╚════██║    
 ███████╗██╔╝ ██╗███████╗███████╗██║  ██║██║ ╚████║███████║    
 ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝    
-\033[0m'
-```
-
-Bu kodu kullanarak kırmızı renkte ve gölgesiz bir banner elde edebilirsiniz. İhtiyacınız olan yere bu kodu ekleyebilirsiniz.
-      
-\033[33;4mVersion:\033[0m 1.4          \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m @redcavalry
+                                                              
+\033[33;4mVersion:\033[0m 1.4          \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m Salih.py
 
 \e[37m[1]\e[36m Gereksinimler & Güncellme     \e[37m[2]\e[36m Phishing Tool				
 \e[37m[3]\e[36m WebCam Hack                   \e[37m[4]\e[36m User Find					
